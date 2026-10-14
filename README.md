@@ -1,6 +1,6 @@
 # jiwongeum-data
 
-「지원금받기」 앱이 내려받는 공공서비스(혜택) 데이터 파일을 배포하는 저장소입니다.
+「지원금딱」(옛 이름 지원금받기) 앱이 내려받는 공공서비스(혜택) 데이터 파일을 배포하는 저장소입니다.
 
 - **파일**: [Releases](../../releases) 에 매일 올라갑니다. 앱은 항상 최신 릴리스(`releases/latest/download/manifest.json`)를 받습니다.
   - `manifest.json` — 데이터 버전 · 받은 시각 · 건수 · 파일 SHA-256
